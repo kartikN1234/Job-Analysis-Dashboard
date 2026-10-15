@@ -38,7 +38,7 @@ It also includes visualizations for job counts over time, experience-level distr
 
 This dashboard focuses on job roles and company-level information. It helps explore job distribution across companies and experience levels, company ratings, salary comparisons, and remote-work ratios by job title.
 
-![Company and Role Insights](Screenshots/Company%20and%20Role%20Insights.png)
+![Company and Role Insights](C:\Users\Hp\Desktop\Job Analysis Dashboard\Screenshots\Company and Role Insights.png)
 
 ### 3. Location Insights
 
